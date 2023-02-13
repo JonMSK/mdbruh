@@ -1,0 +1,11 @@
+# Overview
+
+HS2, or High Speed 2, is a planned railway project linking various key cities of England together. I do specify England here as the plan does not yet involve an extension to Scotland or Wales. It encompasses an ambitious plan to construct a large stretch of high speed rail line which, if completed to the planned standard, will be the fastest high speed railway line in Europe with a top speed of 225mph. They will also be fully electric which allows for flexibility in regards to future climate emissions goals.
+
+To clarify, the HS2 project will link London and Birmingham (Phase 1), Birmingham and Crewe (Phase 2a) and Crewe and Manchester (Phase 2b) (+ Birmingham to East Midlands Parkway in Phase 2b). A plan was also created to link Birmingham to Leeds, however this has since been cancelled.
+
+Despite the many benefits of the HS2 plan, the government routinely comes under fire for the costs of implementing it. The contract system being run by the government is seen as highly inefficient and, due to current economic trends and governmental budget trends, the project will likely be financed with government borrowing, a worrying trend that lies outside of the scope of this chapter. Personally, I believe the government financing idea to be inefficient and prone to exploitation from the companies involved.
+
+Even though these issues do exist, ultimately, the project has a lot of positives and few (although great) negatives. We should not allow the negatives to overshadow the positives of the HS2. It has the power to link people hundreds of miles apart, shorten commuting times allowing people from all over the UK to widen their job range decreasing unemployment, set a global standard for green travel, and more.
+
+I personally believe that by using simple business practices (ie running the HS2 as if it were a company motivated by profit, not a government sector) the UK government can dramatically reduce the cost of running the HS2 and the inefficiency of it. In this chapter, I will be outlining some of the amendments to the plan I believe would be very beneficial to the government and the UK taxpayer.
